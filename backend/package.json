@@ -2,7 +2,8 @@
   "dependencies": {
     "@account-abstraction/contracts": "^0.6.0",
     "@openzeppelin/contracts": "^4.2.0",
-    "hardhat":"2.19.4"
+    "dotenv": "^16.4.5",
+    "hardhat": "2.19.4"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0"
